@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{79BDD5A6-31EF-454F-AF54-3FF0DD95C74E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Form_Post_WebAPI_MVC/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Form_Post_WebAPI_MVC/Views/Home/Index.cshtml" Line="75" Column="67" />
+      <File FileName="Form_Post_WebAPI_MVC/Controllers/PostAPIController.cs" Line="22" Column="34" />
+      <File FileName="Form_Post_WebAPI_MVC/Models/CaseModel.cs" Line="13" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FrameworkIntegraciones" expanded="True" selected="True">
+            <Node name="Form_Post_WebAPI_MVC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FrameworkIntegraciones PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
