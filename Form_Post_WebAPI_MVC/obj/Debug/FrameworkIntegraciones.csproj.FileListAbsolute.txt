@@ -54,3 +54,4 @@
 /Users/mbrandes/Downloads/FrameworkIntegraciones/Form_Post_WebAPI_MVC/obj/Debug/FrameworkIntegraciones.csproj.CopyComplete
 /Users/mbrandes/Downloads/FrameworkIntegraciones/Form_Post_WebAPI_MVC/obj/Debug/Form_Post_WebAPI_MVC.dll
 /Users/mbrandes/Downloads/FrameworkIntegraciones/Form_Post_WebAPI_MVC/obj/Debug/Form_Post_WebAPI_MVC.pdb
+/Users/mbrandes/Downloads/FrameworkIntegraciones/Form_Post_WebAPI_MVC/obj/Debug/FrameworkIntegraciones.csprojAssemblyReference.cache
